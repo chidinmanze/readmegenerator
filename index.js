@@ -30,7 +30,7 @@ const questions = [
 
   {
     type: "list",
-    choices: ["GPLv3", "Apache",  "BSD", "MIT"],
+    choices: ["GPLv3", "Apache", "BSD", "MIT", "ISC"],
     message: "Please specify the license type for your application",
     name: "applicense",
   },
